@@ -30,7 +30,7 @@ Este projeto utiliza o poder do PySpark para analisar um conjunto de dados de no
 
 **Datasets:**
 
-* `notas_alunos.csv` (ajuste o nome do arquivo se necessário)
+* `notas_alunos.csv` 
 
 **Execute o código:**
 

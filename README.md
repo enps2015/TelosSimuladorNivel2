@@ -34,7 +34,7 @@ Este projeto utiliza o poder do PySpark para analisar um conjunto de dados de no
 
 **Execute o código:**
 
-1. Abra o notebook `projeto_analise_notas.ipynb` (ajuste o nome do arquivo se necessário) no Jupyter Notebook ou Google Colab.
+1. Abra o notebook `projeto_analise_notas.ipynb` no Jupyter Notebook ou Google Colab.
 2. Execute as células em ordem.
 
 **Desafios Encontrados:**
